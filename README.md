@@ -1,12 +1,3 @@
----
-title: 40 Words to Spice Up Your Developer Resume
-published: true
-canonical_url: https://cvcompiler.com/blog/40-words-to-spice-up-your-developer-resume/
-cover_image: https://cvcompiler.com/blog/wp-content/uploads/2020/04/40-Words-to-Spice-Up-Your-Developer-Resume.png
-description: Find out what adjectives to use to make your IT resume’s bullet points more attention-grabbing.
-tags: resume, tips, job search, career
----
-
 Writing a resume that really stands out doesn’t need to be a daunting task.
 
 In one of my previous blog posts, I talked about [ways to improve your resume’s bullet points](https://cvcompiler.com/blog/how-to-improve-your-junior-developer-resume-bullets/?utm=6d7917b00fdc9ab5). Here, I’d like to focus on the adjectives that you can use to make your experience descriptions even more attention-grabbing. 
