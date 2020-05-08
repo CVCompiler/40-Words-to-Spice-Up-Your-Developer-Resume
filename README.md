@@ -23,5 +23,3 @@ Now, let’s see how you can incorporate these “power” words into your resum
 For these adjectives to be effective, combine them with <b>strong action verbs</b> and <b>numbers</b>, as in the examples above. 
 
 Hopefully, this quick, practical guide will give you the boost/inspiration you need to spice up your resume.
-
-Need your IT resume reviewed? [Use CV Compiler](https://cvcompiler.com/?utm=abab33501bca3a95) and get personalized resume feedback in less than 30 seconds. Here’s a special promo code for 20% off: <b>Welcome20</b>.
